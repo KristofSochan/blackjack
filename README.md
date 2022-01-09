@@ -3,6 +3,7 @@ Text based blackjack card game
 
 # Features
 Multi-round blackjack game
+
 Built in wager / chip count
 
 # Installation
