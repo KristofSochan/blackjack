@@ -8,3 +8,6 @@ Built in wager / chip count
 
 # Installation
 Downlaod BlackJack.java and run in console
+
+
+(Archived school project)
